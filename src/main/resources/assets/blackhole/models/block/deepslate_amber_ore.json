@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "blackhole:block/deepslate_amber_ore"
+  }
+}
